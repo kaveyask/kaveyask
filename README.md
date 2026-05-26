@@ -1,6 +1,6 @@
 # Hi there, I'm Kaveya! 👋
 
-I am a **Data Analyst** passionate about turning raw numbers into actionable business insights. I love exploring datasets, building automated pipelines, and visualizing trends to solve real-world problems.
+I am a **Data Analyst** passionate about turning raw numbers into actionable business insights. I love exploring datasets and visualizing trends to solve real-world problems.
 
 ---
 
