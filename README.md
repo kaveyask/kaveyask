@@ -1,6 +1,6 @@
 # Hi there, I'm Kaveya! 👋
 
-I am a **Data Analyst / Engineer** passionate about turning raw numbers into actionable business insights. I love exploring datasets, building automated pipelines, and visualizing trends to solve real-world problems.
+I am a **Data Analyst** passionate about turning raw numbers into actionable business insights. I love exploring datasets, building automated pipelines, and visualizing trends to solve real-world problems.
 
 ---
 
@@ -71,27 +71,22 @@ I am a **Data Analyst / Engineer** passionate about turning raw numbers into act
 
 
 
-![Kaveya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaveyask&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Kaveya's GitHub Stats](https://readme-stats-sigma-five.vercel.app/api?username=kaveyask&show_icons=true&theme=radical&hide_border=true)
 
 
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveyask&layout=compact&theme=radical&hide_border=true)
-
-
+![Top Languages](https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaveyask&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### 🤝 Let's Connect!
 
 [
-
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ](https://www.linkedin.com/in/kaveya9399)
+
 [
-
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 ](mailto:kaveyaasathish@gmail.com)
