@@ -71,14 +71,7 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
 
 
 
-![Kaveya's GitHub Stats](https://readme-stats-sigma-five.vercel.app/api?username=kaveyask&show_icons=true&theme=radical&hide_border=true)
-
-
-
-
-
-![Top Languages](https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaveyask&layout=compact&theme=radical&hide_border=true)
-
+![Profile Views](https://komarev.com/ghpvc/?username=kaveyask&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ---
 
 ### 🤝 Let's Connect!
