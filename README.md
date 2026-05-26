@@ -14,7 +14,7 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
 
 
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
@@ -34,9 +34,6 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
@@ -62,7 +59,7 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
 ### 📂 Featured Analytics Projects
 
 * **🍔 Swiggy Data Analysis** — Analyzing food delivery trends, consumer habits, and restaurant pricing strategies using Python.
-* **📈 Customer Insights** — Deep-diving into user behavioral metrics and retention analytics with SQL and Pandas.
+* **📈 Customer Insights** — Deep-diving into user behavioral metrics and retention analytics with MySQL and Pandas.
 * **🏪 Superstore Analytics** — Building interactive dashboards to uncover sales trends, regional distribution, and profit margins.
 
 ---
