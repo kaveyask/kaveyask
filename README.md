@@ -1,24 +1,61 @@
 # Hi there, I'm Kaveya! 👋
 
-I am a **Data Analyst** passionate about turning raw numbers into actionable business insights. I love exploring datasets, building automated pipelines, and visualizing trends to solve real-world problems.
+I am a **Data Analyst / Engineer** passionate about turning raw numbers into actionable business insights. I love exploring datasets, building automated pipelines, and visualizing trends to solve real-world problems.
 
 ---
 
 ### 🛠️ My Data Analytics Tech Stack
 
 #### 💻 Programming & Query Languages
-![Python](https://shields.io)
-![SQL](https://shields.io)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 #### 🧹 Data Manipulation & Environments
-![Jupyter Notebook](https://shields.io)
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
+
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 #### 📊 Business Intelligence & Visualization
-![Tableau](https://shields.io)
-![Power Bi](https://shields.io)
-![Excel](https://shields.io)
+
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+
+
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+
 
 ---
 
@@ -30,16 +67,24 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
 
 ---
 
-### 📊 Portfolio Activity Metrics
+### 📊 GitHub Activity Metrics
 
 <p align="left">
-  <img src="https://vercel.app" alt="Kaveya's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaveyask&show_icons=true&theme=radical" alt="Kaveya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveyask&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect!
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](www.linkedin.com/in/
 kaveya9399)
-[![Email](https://shields.io)](kaveyaasathish@gmail.com)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](kaveyaasathish@gmail.com)
