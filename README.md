@@ -1,6 +1,6 @@
 # Hi there, I'm Kaveya! 👋
 
-I am a **Data Analyst** passionate about turning raw numbers into actionable business insights. I love exploring datasets, building automated pipelines, and visualizing trends to solve real-world problems.
+I am a **Data Analyst / Engineer** passionate about turning raw numbers into actionable business insights. I love exploring datasets, building automated pipelines, and visualizing trends to solve real-world problems.
 
 ---
 
@@ -36,6 +36,9 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
 
 
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 #### 📊 Business Intelligence & Visualization
 
@@ -66,10 +69,17 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
 
 ### 📊 GitHub Activity Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaveyask&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveyask&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+
+
+![Kaveya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaveyask&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveyask&layout=compact&theme=radical&hide_border=true)
+
+
 
 ---
 
