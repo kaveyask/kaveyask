@@ -14,7 +14,7 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
 
 
 
-![MySQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
