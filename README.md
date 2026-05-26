@@ -1,6 +1,6 @@
 # Hi there, I'm Kaveya! 👋
 
-I am a **Data Analyst / Engineer** passionate about turning raw numbers into actionable business insights. I love exploring datasets, building automated pipelines, and visualizing trends to solve real-world problems.
+I am a **Data Analyst** passionate about turning raw numbers into actionable business insights. I love exploring datasets, building automated pipelines, and visualizing trends to solve real-world problems.
 
 ---
 
@@ -34,9 +34,6 @@ I am a **Data Analyst / Engineer** passionate about turning raw numbers into act
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
