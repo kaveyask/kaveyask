@@ -70,9 +70,11 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
   <img src="https://github-readme-stats.vercel.app/api?username=kaveyask&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveyask&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
+
 ---
 
 ### 🤝 Let's Connect!
+
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -82,4 +84,4 @@ I am a **Data Analyst** passionate about turning raw numbers into actionable bus
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-](kaveyaasathish@gmail.com)
+](mailto:kaveyaasathish@gmail.com)
